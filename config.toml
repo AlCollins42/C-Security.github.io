@@ -1,3 +1,4 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://C-Security.github.io'
+languageCode = 'en-gb'
+title = 'Cyber security blog'
+theme = 'dimension'
